@@ -1,0 +1,518 @@
+body {
+    background-color: #DCB301;
+}
+
+header {
+    background-color: black;
+    width: 100%;
+    height: 150px
+}
+
+.headerimg1 {
+    height:100px;
+    width:120px;
+    margin-left: 15px;
+    margin-top: 25px;
+}
+
+.qwra {
+    background-color: black;
+    color: #DCB301;
+    border: 3px solid #DCB301;
+    text-decoration: none;
+    border-radius: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    margin-top: 100px;
+}
+
+.qwra:hover {
+    background-image: linear-gradient(red, orange,
+    yellow, green, blue, purple);
+    color: black;
+    border: 3px solid black;
+}
+
+.choa {
+    background-color: #DCB301;
+    color: black;
+    border: 3px solid black;
+    text-decoration: none;
+    border-radius: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+    margin-top: 100px;
+}
+
+.choa:hover {
+    background-color: black;
+    color: #DCB301;
+    border: 3px solid #DCB301;
+}
+
+.sitesa {
+    background-color: #DCB301;
+    color: black;
+    border: 3px solid black;
+    text-decoration: none;
+    border-radius: 60px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: sans-serif;
+} 
+
+.sitesa:hover {
+    background-color: black;
+    color: #DCB301;
+    border: 3px solid #DCB301;
+}
+
+.navigation {
+    display: inline-block;
+    justify-content: center;
+    margin-left:380px;
+}
+
+main {
+    background-color: #DCB301;
+}
+
+.menu a{
+    position: absolute;
+    left:-110px;
+    transition: 0.3s;
+    padding:15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color:#DCB301;
+    font-family: sans-serif;
+    border-radius: 0 5px 5px 0;
+}
+
+.menu a:hover {
+    left:0;
+}
+
+.tablea {
+    top: 200px;
+    background-color: black;
+}
+.chaa {
+    top: 260px;
+    background-color: black;
+}
+.joestara {
+    top: 320px;
+    background-color: black;
+}
+
+.ph1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.qwrh1 {
+    font-size: 15px;
+    position: relative;
+    left: 125px;
+    bottom: 20px;
+}
+
+.h21 {
+    text-align: center;
+    font-size: 18px;
+    font-family: sans-serif;
+    position: relative;
+    bottom: 50px;
+}
+
+.imgh1 {
+    height: 250px;
+    position: relative;
+    left: 290px;
+    bottom: 60px;
+    border-radius: 60px;
+}
+
+.panime {
+    text-align: center;
+    margin-top: -50px;
+    font-family: sans-serif;
+}
+
+.h31 {
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+}
+
+table {
+    font-family: sans-serif;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr {
+    border: 3px solid black;
+}
+
+td {
+    border: 3px solid black;
+    text-align: center;
+}
+
+.line {
+    background-color: black;
+    color: #DCB301;
+}
+
+.jonatantbl {
+    height:100px;
+    margin-bottom: -5px;
+}
+
+.joseftbl {
+    height: 100px;
+    margin-bottom: -5px;
+}
+
+.jotarotbl {
+    height:100px;
+    margin-bottom: -5px;
+}
+
+.josuketbl {
+    height:100px;
+    margin-bottom:-5px;
+}
+
+.jornotbl {
+    height:100px;
+    margin-bottom:-5px;
+}
+
+.jolintbl {
+    height:100px;
+    margin-bottom:-5px;
+}
+
+.jonnitbl {
+    height: 100px;
+    margin-bottom:-5px;
+}
+
+.josuketbl8 {
+    height: 100px;
+    margin-bottom:-5px;
+}
+
+.h32 {
+    text-align: center;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+}
+
+.phantomblood {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.battletendency {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.stardustcrusaders {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.diamondisunbreakable {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.goldenwind {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.stoneocean {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.steelballrun {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.jojolion {
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+h4 {
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+}
+
+.text {
+    float: left;
+}
+
+.inf {
+    float: right;
+    border: 3px solid black;
+    border-radius: 60px;
+    padding: 10px;
+}
+
+.jojojo {
+    font-family: sans-serif;
+}
+
+.joestars {
+    font-family: sans-serif;
+}
+
+.h33 {
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 3px;
+    position: relative;
+    bottom: -10px;
+    left: 400px;
+    margin-bottom: 30px;
+}
+
+.jonatandiv {
+    font-size: 15px;
+}
+
+.wow {
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 2px;
+}
+
+.jonatansec {
+    float: left;
+}
+
+.jonatanside {
+    position: relative;
+}
+
+.jonatanimg {
+    height: 200px;
+    width: 130px;
+    border:3px dashed black;
+    border-radius: 60px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+
+.josephdiv {
+    position: relative;
+    top: 20px;
+    font-size: 15px;
+}
+
+.josephsec {
+    float: right;
+}
+
+.josephside {
+    position: relative;
+}
+
+.josephimg {
+    height: 200px;
+    width: 130px;
+    border:3px dashed black;
+    border-radius: 60px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.jotarodiv {
+    position: relative;
+    font-size: 15px;
+    top: 40px;
+}
+
+.jotarosec {
+    float: left;
+}
+
+.jotaroside {
+    position: relative;
+}
+
+.josephimg {
+    height: 200px;
+    width: 130px;
+    border:3px dashed black;
+    border-radius: 60px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.josukediv {
+    position: relative;
+    font-size: 15px;
+    top: 45px;
+}
+
+.josukesec {
+    float: right;
+}
+
+.josukeside {
+    position: relative;
+}
+
+.josukeimg {
+    height: 190px;
+    width: 100px;
+    border:3px dashed black;
+    border-radius: 60px;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+
+.jornodiv {
+    position: relative;
+    font-size: 15px;
+    top: 60px;
+}
+
+.jornosec {
+    float: left;
+}
+
+.jornoside {
+    position: relative;
+}
+
+.jornoimg {
+    height: 220px;
+    width: 130px;
+    border:3px dashed black;
+    border-radius: 60px;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.jolindiv {
+    position: relative;
+    font-size: 15px;
+    top: 60px;
+}
+
+.jolinsec {
+    float: right;
+}
+
+.jolinside {
+    position: relative;
+}
+
+.jolinimg {
+    height: 200px;
+    width: 130px;
+    border:3px dashed black;
+    border-radius: 60px;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.jonnidiv {
+    position: relative;
+    font-size: 15px;
+    top: 60px;
+}
+
+.jonnisec {
+    float: left;
+}
+
+.jonniside {
+    position: relative;
+}
+
+.jonniimg {
+    height: 185px;
+    width: 160px;
+    border:3px dashed black;
+    border-radius: 60px;
+    margin-top: 25px;
+    margin-left: 30px;
+}
+
+.joskediv {
+    position: relative;
+    font-size: 15px;
+    top: 60px;
+}
+
+.joskesec {
+    float: right;
+}
+
+.joskeside {
+    position: relative;
+}
+
+.joskeimg {
+    height: 160px;
+    width: 135px;
+    border:3px dashed black;
+    border-radius: 60px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.endimg {
+    margin-top:80px;
+    height: 80px;
+    width: 90px;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.end {
+    margin-top:15px;
+    text-align: center;
+}
+
+.footer {
+    color: #DCB301;
+    text-align: center;
+    padding-top: 15px;
+}
+
+footer {
+    background-color: black;
+    height: 50px;
+}
