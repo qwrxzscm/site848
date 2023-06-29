@@ -133,14 +133,15 @@ main {
     font-size: 18px;
     font-family: sans-serif;
     position: relative;
-    bottom: 50px;
+    margin-top: -30px;
 }
 
 .imgh1 {
     height: 250px;
-    position: relative;
-    left: 290px;
-    bottom: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 80px;
     border-radius: 60px;
 }
 
@@ -221,7 +222,6 @@ td {
 
 .h32 {
     text-align: center;
-    font-family: sans-serif;
     text-decoration: underline;
     text-decoration-color: black;
     text-decoration-thickness: 3px;
@@ -267,14 +267,14 @@ td {
     margin-left: 20px;
 }
 
+.text {
+    float:left;
+}
+
 h4 {
     text-decoration: underline;
     text-decoration-color: black;
     text-decoration-thickness: 3px;
-}
-
-.text {
-    float: left;
 }
 
 .inf {
@@ -284,235 +284,16 @@ h4 {
     padding: 10px;
 }
 
-.jojojo {
-    font-family: sans-serif;
-}
-
-.joestars {
-    font-family: sans-serif;
-}
-
 .h33 {
-    font-family: sans-serif;
+    margin-top: 1000px;
+    text-align: center;
     text-decoration: underline;
     text-decoration-color: black;
     text-decoration-thickness: 3px;
-    position: relative;
-    bottom: -10px;
-    left: 400px;
-    margin-bottom: 30px;
-}
-
-.jonatandiv {
-    font-size: 15px;
 }
 
 .wow {
     text-decoration: underline;
     text-decoration-color: black;
     text-decoration-thickness: 2px;
-}
-
-.jonatansec {
-    float: left;
-}
-
-.jonatanside {
-    position: relative;
-}
-
-.jonatanimg {
-    height: 200px;
-    width: 130px;
-    border:3px dashed black;
-    border-radius: 60px;
-    margin-top: 70px;
-    margin-left: 50px;
-}
-
-.josephdiv {
-    position: relative;
-    top: 20px;
-    font-size: 15px;
-}
-
-.josephsec {
-    float: right;
-}
-
-.josephside {
-    position: relative;
-}
-
-.josephimg {
-    height: 200px;
-    width: 130px;
-    border:3px dashed black;
-    border-radius: 60px;
-    margin-top: 30px;
-    margin-left: 50px;
-}
-
-.jotarodiv {
-    position: relative;
-    font-size: 15px;
-    top: 40px;
-}
-
-.jotarosec {
-    float: left;
-}
-
-.jotaroside {
-    position: relative;
-}
-
-.josephimg {
-    height: 200px;
-    width: 130px;
-    border:3px dashed black;
-    border-radius: 60px;
-    margin-top: 30px;
-    margin-left: 50px;
-}
-
-.josukediv {
-    position: relative;
-    font-size: 15px;
-    top: 45px;
-}
-
-.josukesec {
-    float: right;
-}
-
-.josukeside {
-    position: relative;
-}
-
-.josukeimg {
-    height: 190px;
-    width: 100px;
-    border:3px dashed black;
-    border-radius: 60px;
-    margin-top: 10px;
-    margin-left: 70px;
-}
-
-.jornodiv {
-    position: relative;
-    font-size: 15px;
-    top: 60px;
-}
-
-.jornosec {
-    float: left;
-}
-
-.jornoside {
-    position: relative;
-}
-
-.jornoimg {
-    height: 220px;
-    width: 130px;
-    border:3px dashed black;
-    border-radius: 60px;
-    margin-top: 25px;
-    margin-left: 50px;
-}
-
-.jolindiv {
-    position: relative;
-    font-size: 15px;
-    top: 60px;
-}
-
-.jolinsec {
-    float: right;
-}
-
-.jolinside {
-    position: relative;
-}
-
-.jolinimg {
-    height: 200px;
-    width: 130px;
-    border:3px dashed black;
-    border-radius: 60px;
-    margin-top: 25px;
-    margin-left: 50px;
-}
-
-.jonnidiv {
-    position: relative;
-    font-size: 15px;
-    top: 60px;
-}
-
-.jonnisec {
-    float: left;
-}
-
-.jonniside {
-    position: relative;
-}
-
-.jonniimg {
-    height: 185px;
-    width: 160px;
-    border:3px dashed black;
-    border-radius: 60px;
-    margin-top: 25px;
-    margin-left: 30px;
-}
-
-.joskediv {
-    position: relative;
-    font-size: 15px;
-    top: 60px;
-}
-
-.joskesec {
-    float: right;
-}
-
-.joskeside {
-    position: relative;
-}
-
-.joskeimg {
-    height: 160px;
-    width: 135px;
-    border:3px dashed black;
-    border-radius: 60px;
-    margin-top: 25px;
-    margin-left: 10px;
-}
-
-.endimg {
-    margin-top:80px;
-    height: 80px;
-    width: 90px;
-    border-radius: 100px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.end {
-    margin-top:15px;
-    text-align: center;
-}
-
-.footer {
-    color: #DCB301;
-    text-align: center;
-    padding-top: 15px;
-}
-
-footer {
-    background-color: black;
-    height: 50px;
 }
