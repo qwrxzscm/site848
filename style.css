@@ -287,8 +287,8 @@ h4 {
     padding: 10px;
 }
 
-.h33 {
-    padding-top: 50px;
+    .h33 {
+    margin-top: 200px;
     text-align: center;
     text-decoration: underline;
     text-decoration-color: black;
