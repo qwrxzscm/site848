@@ -317,7 +317,8 @@ h4 {
 }
 
 .jonatanside {
-    float: right;
+    float: left;
+    margin-left: 20px;
 }
 
 .jonatanimg {
@@ -337,9 +338,9 @@ h4 {
 }
 
 .josephside {
-    float: left;
+    float: right;
     margin-top: 20px;
-    margin-left: 150px;
+    margin-right: 20px;
 }
 
 .josephimg {
