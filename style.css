@@ -415,3 +415,68 @@ h4 {
     border:3px dashed black;
     border-radius: 60px;
 }
+
+.jolindiv {
+    position: relative;
+    margin-top: 30px;
+}
+
+.jolinsec {
+    float: right;
+}
+
+.jolinside {
+    float:right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.jolinimg {
+    width: 140px;
+    height: 230px;
+    border:3px dashed black;
+    border-radius: 60px;
+}
+
+.jonnidiv {
+    position: relative;
+    margin-top: 30px;
+}
+
+.jonnisec {
+    float: left;
+}
+
+.jonniside {
+    float: left;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.jonniimg {
+    width: 180px;
+    height: 230px;
+    border:3px dashed black;
+    border-radius: 60px;
+}
+
+.joskediv {
+    position: relative;
+    margin-top: 30px;
+}
+
+.joskesec {
+    float: right;
+}
+
+.joskeside {
+    float: right;
+    margin-top: 20px;
+}
+
+.joskeimg {
+    width: 180px;
+    height: 230px;
+    border:3px dashed black;
+    border-radius: 60px;
+}
