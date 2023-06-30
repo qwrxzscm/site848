@@ -318,7 +318,7 @@ h4 {
 
 .jonatanside {
     float: left;
-    left: 20px;
+    padding-left: 20px;
 }
 
 .jonatanimg {
@@ -350,3 +350,24 @@ h4 {
     border-radius: 60px;
 }
 
+.jotarodiv {
+    position: relative;
+    margin-top: 30px;
+}
+
+.jotarosec {
+    float: left;
+}
+
+.jotaroside {
+    float:left;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.jotaroimg {
+    height: 230px;
+    width: 140px;
+    border:3px dashed black;
+    border-radius: 60px;
+}
