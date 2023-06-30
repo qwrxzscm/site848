@@ -287,7 +287,7 @@ h4 {
     padding: 10px;
 }
 
-    .h33 {
+.h33 {
     text-align: center;
     text-decoration: underline;
     text-decoration-color: black;
@@ -366,8 +366,52 @@ h4 {
 }
 
 .jotaroimg {
-    height: 230px;
+    height: 250px;
     width: 140px;
+    border:3px dashed black;
+    border-radius: 60px;
+}
+
+.josukediv {
+    position: relative;
+    margin-top: 30px;
+}
+
+.josukesec {
+    float: right;
+}
+
+.josukeside {
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.josukeimg {
+    width:100px;
+    height: 200px;
+    border:3px dashed black;
+    border-radius: 60px;
+}
+
+.jornodiv {
+    position: relative;
+    margin-top: 30px;
+}
+
+.jornosec {
+    float: left;
+}
+
+.jornoside {
+    float: left;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.jornoimg {
+    width:140px;
+    height: 230px;
     border:3px dashed black;
     border-radius: 60px;
 }
