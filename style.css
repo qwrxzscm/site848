@@ -499,3 +499,21 @@ h4 {
 .endtext {
     text-align: center;
 }
+
+footer {
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+}
+
+footer p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    color: #DCB301;
+}
+
+.uf {
+    width: 20px;
+    height: 20px;
+}
